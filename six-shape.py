@@ -1,0 +1,3 @@
+
+class SixShape:
+    pass
